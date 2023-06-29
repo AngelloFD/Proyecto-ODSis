@@ -13,10 +13,15 @@ private:
 public:
 	DB();
 	DataTable^ getData();
+	DataTable^ getDataD();
+	DataTable^ getDataProyecto();
 	DataTable^ buscarData(String^);
 	void AbrirConexion();
 	void CerrarConexion();
 	void Eliminar(String^);
 	void Buscar(String^);
+	//void Insertar(String^, String^, String^, String^, String^, String^, String^);
+	DataTable^ buscarProyecto(String^);
+	void EliminarProyecto(String^);
 };
 

@@ -1,7 +1,9 @@
 ﻿  DB.cpp
+  Donaciones.cpp
   Inventario.cpp
   Login.cpp
   MenuOpciones.cpp
+  Proyectos.cpp
   Generando código...
   DB.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
   Proyecto ODSis.vcxproj -> C:\Users\FERNANDO\Source\Repos\ProyectoODSis\x64\Release\Proyecto ODSis.exe
