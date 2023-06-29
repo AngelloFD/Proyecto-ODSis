@@ -8,3 +8,11 @@ C:\Users\FERNANDO\source\repos\Proyecto-ODSis\Proyecto ODSis\x64\Debug\ProyectoO
 C:\Users\FERNANDO\source\repos\Proyecto-ODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Inventario.resources
 C:\Users\FERNANDO\source\repos\Proyecto-ODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.MenuOpciones.resources
 C:\Users\FERNANDO\source\repos\Proyecto-ODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Proyectos.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\Proyecto ODSis.vcxproj.AssemblyReference.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\Proyecto ODSis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Donaciones.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Inventario.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Login.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.MenuOpciones.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\ProyectoODSis.Proyectos.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Debug\Proyecto ODSis.vcxproj.GenerateResource.cache

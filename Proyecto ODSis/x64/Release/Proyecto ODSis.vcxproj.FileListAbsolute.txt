@@ -14,3 +14,12 @@ C:\Users\locas\source\repos\Proyecto ODSis\Proyecto ODSis\x64\Release\ProyectoOD
 C:\Users\locas\source\repos\Proyecto ODSis\Proyecto ODSis\x64\Release\ProyectoODSis.MenuOpciones.resources
 C:\Users\locas\source\repos\Proyecto ODSis\Proyecto ODSis\x64\Release\ProyectoODSis.Proyectos.resources
 C:\Users\locas\source\repos\Proyecto ODSis\Proyecto ODSis\x64\Release\Proyecto ODSis.vcxproj.GenerateResource.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\Proyecto ODSis.vcxproj.AssemblyReference.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\Proyecto ODSis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\ProyectoODSis.Donaciones.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\ProyectoODSis.Inventario.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\ProyectoODSis.Login.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\ProyectoODSis.MenuOpciones.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\ProyectoODSis.Proyectos.resources
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\Proyecto ODSis.vcxproj.GenerateResource.cache
+C:\Users\FERNANDO\source\repos\ProyectoODSis\Proyecto ODSis\x64\Release\Proyecto ODSis.vcxproj.CopyComplete

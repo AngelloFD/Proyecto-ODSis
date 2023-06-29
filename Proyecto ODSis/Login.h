@@ -199,7 +199,7 @@ namespace ProyectoODSis {
 		}
 #pragma endregion
 	private: bool is_connected(MYSQL* conn) {
-		conn = mysql_real_connect(conn, "localhost", getenv("DB_USER"), getenv("DB_PASS"), getenv("DB_NAME"), 3306, NULL, 0);
+		conn = mysql_real_connect(conn, "localhost", "root", "72497771", "odsisdb", 3306, NULL, 0);
 		if (!conn) {
 			MessageBox::Show("Error connecting to database!", "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
 			return false;
